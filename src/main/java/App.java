@@ -17,7 +17,7 @@ public class App {
 
         System.out.println("Результат проверки бинов: "+ (cat == cat1));
 
-       // applicationContext.close();
+
 
     }
 }
